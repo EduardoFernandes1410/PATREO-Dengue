@@ -5,3 +5,6 @@
   
 ## Dataset download: 
 http://www.patreo.dcc.ufmg.br/bh-pools-watertanks-datasets/
+
+## Running shallow learning method:
+`` bash script.sh <path_to_training_images> <path_to_testing_images> <path_to_training_annotation> <path_to_testing_images> `
